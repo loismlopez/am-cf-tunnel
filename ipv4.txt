@@ -95,18 +95,17 @@ ipapi.co
 xn--b6gac.eu.org
 dnschecker.org
 tasteatlas.com
-pixiv.net
-comicabc.com
-c.xf.free.hr
-cdn.anycast.eu.org
+micabc.com
+162.159.153.242
+162.159.153.49
 cdn.cf.clun.top
 cdn.kaiche.tk
-cloudflare.cfgo.cc
-hk.rweek.top
+172.71.249.66
+168.138.165.174
 hk.zh141.com
 kr01.nttkk.com
-nc.gocada.co
-sp.rweek.top
+172.67.37.222
+198.41.192.78
 tuic.cc
 tw04.nttkk.com
 www.iios.club
@@ -114,6 +113,6 @@ www.ikantv.net
 www.k77kk.cc
 www.wuda.cf
 www.yhth88.com
-yecaoyun.com
+198.41.223.81
 government.se
 
